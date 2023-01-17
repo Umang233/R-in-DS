@@ -3,7 +3,7 @@
 
 5
 10
-5 10 20 
+5 10 20 #raise a error
 
 # Variable
 
